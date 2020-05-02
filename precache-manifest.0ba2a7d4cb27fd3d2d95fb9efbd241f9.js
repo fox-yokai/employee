@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61e1b012b02a9905486922e3a7f32e67",
+    "revision": "4bd1130a86263f6ce7ca5f0689d57d47",
     "url": "/fox-yokai/employee/index.html"
   },
   {

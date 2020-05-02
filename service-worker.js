@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fox-yokai/employee/precache-manifest.1c8e82f02951850627f01e84fe6bc88d.js"
+  "/fox-yokai/employee/precache-manifest.0ba2a7d4cb27fd3d2d95fb9efbd241f9.js"
 );
 
 self.addEventListener('message', (event) => {
