@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fox-yokai/employee/static/css/main.3fcd11d6.chunk.css",
+    "main.js": "/fox-yokai/employee/static/js/main.1b563269.chunk.js",
+    "main.js.map": "/fox-yokai/employee/static/js/main.1b563269.chunk.js.map",
+    "runtime-main.js": "/fox-yokai/employee/static/js/runtime-main.9bc8f37d.js",
+    "runtime-main.js.map": "/fox-yokai/employee/static/js/runtime-main.9bc8f37d.js.map",
+    "static/js/2.021e1ef6.chunk.js": "/fox-yokai/employee/static/js/2.021e1ef6.chunk.js",
+    "static/js/2.021e1ef6.chunk.js.map": "/fox-yokai/employee/static/js/2.021e1ef6.chunk.js.map",
+    "index.html": "/fox-yokai/employee/index.html",
+    "precache-manifest.719a2ddff6917c4bcb267bf64d27a978.js": "/fox-yokai/employee/precache-manifest.719a2ddff6917c4bcb267bf64d27a978.js",
+    "service-worker.js": "/fox-yokai/employee/service-worker.js",
+    "static/css/main.3fcd11d6.chunk.css.map": "/fox-yokai/employee/static/css/main.3fcd11d6.chunk.css.map",
+    "static/js/2.021e1ef6.chunk.js.LICENSE.txt": "/fox-yokai/employee/static/js/2.021e1ef6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bc8f37d.js",
+    "static/js/2.021e1ef6.chunk.js",
+    "static/css/main.3fcd11d6.chunk.css",
+    "static/js/main.1b563269.chunk.js"
+  ]
+}
