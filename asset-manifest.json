@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/fox-yokai/fox-yokai.github.io/static/css/main.3fcd11d6.chunk.css",
-    "main.js": "/fox-yokai/fox-yokai.github.io/static/js/main.6308e65a.chunk.js",
-    "main.js.map": "/fox-yokai/fox-yokai.github.io/static/js/main.6308e65a.chunk.js.map",
-    "runtime-main.js": "/fox-yokai/fox-yokai.github.io/static/js/runtime-main.3f63c098.js",
-    "runtime-main.js.map": "/fox-yokai/fox-yokai.github.io/static/js/runtime-main.3f63c098.js.map",
-    "static/js/2.021e1ef6.chunk.js": "/fox-yokai/fox-yokai.github.io/static/js/2.021e1ef6.chunk.js",
-    "static/js/2.021e1ef6.chunk.js.map": "/fox-yokai/fox-yokai.github.io/static/js/2.021e1ef6.chunk.js.map",
-    "index.html": "/fox-yokai/fox-yokai.github.io/index.html",
-    "precache-manifest.fcf37d0eeeb8381f24bf052348bea4b7.js": "/fox-yokai/fox-yokai.github.io/precache-manifest.fcf37d0eeeb8381f24bf052348bea4b7.js",
-    "service-worker.js": "/fox-yokai/fox-yokai.github.io/service-worker.js",
-    "static/css/main.3fcd11d6.chunk.css.map": "/fox-yokai/fox-yokai.github.io/static/css/main.3fcd11d6.chunk.css.map",
-    "static/js/2.021e1ef6.chunk.js.LICENSE.txt": "/fox-yokai/fox-yokai.github.io/static/js/2.021e1ef6.chunk.js.LICENSE.txt"
+    "main.css": "/employee/static/css/main.3fcd11d6.chunk.css",
+    "main.js": "/employee/static/js/main.d8128d3b.chunk.js",
+    "main.js.map": "/employee/static/js/main.d8128d3b.chunk.js.map",
+    "runtime-main.js": "/employee/static/js/runtime-main.5562681a.js",
+    "runtime-main.js.map": "/employee/static/js/runtime-main.5562681a.js.map",
+    "static/js/2.021e1ef6.chunk.js": "/employee/static/js/2.021e1ef6.chunk.js",
+    "static/js/2.021e1ef6.chunk.js.map": "/employee/static/js/2.021e1ef6.chunk.js.map",
+    "index.html": "/employee/index.html",
+    "precache-manifest.b5644337bca2eb62368a35a2c063fb72.js": "/employee/precache-manifest.b5644337bca2eb62368a35a2c063fb72.js",
+    "service-worker.js": "/employee/service-worker.js",
+    "static/css/main.3fcd11d6.chunk.css.map": "/employee/static/css/main.3fcd11d6.chunk.css.map",
+    "static/js/2.021e1ef6.chunk.js.LICENSE.txt": "/employee/static/js/2.021e1ef6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f63c098.js",
+    "static/js/runtime-main.5562681a.js",
     "static/js/2.021e1ef6.chunk.js",
     "static/css/main.3fcd11d6.chunk.css",
-    "static/js/main.6308e65a.chunk.js"
+    "static/js/main.d8128d3b.chunk.js"
   ]
 }
